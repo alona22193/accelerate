@@ -47,3 +47,25 @@
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+/*Case Studies*/
+article.case-study {
+	margin: 40px 0 0;
+}
+	
+aside.case-study-sidebar {
+	float: left;
+	width: 310px;
+	margin: 0 40px 0 0;
+}
+
+div.case-study-images {
+	float: left;
+	width: 605px;
+}
+
+div.case-study-images img {
+	margin-bottom: 50px;
+	border: 1px solid #dddddd;
+}
+
